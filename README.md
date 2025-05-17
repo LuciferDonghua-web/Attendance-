@@ -26,14 +26,6 @@ This is a PHP-based Student Attendance Management System designed to manage and 
 
 ---
 
-## 📽 YouTube Channel
-For full video tutorial and setup guide:
-
-▶️ **[CodeCampBD Official YouTube Channel](https://www.youtube.com/@codecampbdofficial)**  
-🎥 **Video Link:** [Watch on YouTube](https://www.youtube.com/watch?v=ra84Xw-dd4Y&t=74s)
-
----
-
 ## 🔐 Login Details
 
 ### **Admin Login**
